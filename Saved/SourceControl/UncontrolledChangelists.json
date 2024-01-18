@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/hans/Documents/Unreal Projects/PAEClone/Content/Blueprints/Core/BP_GM.uasset",
+				"C:/Users/hans/Documents/Unreal Projects/PAEClone/Content/Blueprints/Core/BP_PC.uasset",
+				"C:/Users/hans/Documents/Unreal Projects/PAEClone/Content/Blueprints/Core/BP_Pawn.uasset"
+			]
+		}
+	]
+}
